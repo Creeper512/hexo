@@ -34,7 +34,7 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-sliding-spoiler": "^1.2.1",
-    "hexo-theme-fluid": "^1.9.2",
+    "hexo-theme-fluid": "^1.9.3",
     "hexo-theme-landscape": "^0.0.3",
     "hexo-wordcount": "^6.0.1"
   }
