@@ -601,12 +601,6 @@ hexo-admonition@^1.1.2:
   dependencies:
     markdown-it "^9.1.0"
 
-hexo-butterfly-footer-beautify@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npmjs.org/hexo-butterfly-footer-beautify/-/hexo-butterfly-footer-beautify-1.0.6.tgz"
-  dependencies:
-    pug "^3.0.0"
-
 hexo-cli@^4.3.0:
   version "4.3.0"
   resolved "https://registry.npmjs.org/hexo-cli/-/hexo-cli-4.3.0.tgz"
@@ -658,11 +652,11 @@ hexo-fs@^3.0.1, hexo-fs@^3.1.0:
     graceful-fs "^4.1.11"
     hexo-util "^2.0.0"
 
-hexo-generator-archive@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/hexo-generator-archive/-/hexo-generator-archive-1.0.0.tgz"
+hexo-generator-archive@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-archive/-/hexo-generator-archive-2.0.0.tgz#bd93f17848843bb5bface81103d81f5be1a8b2c9"
   dependencies:
-    hexo-pagination "1.0.0"
+    hexo-pagination "3.0.0"
 
 hexo-generator-category@^1.0.0:
   version "1.0.0"
@@ -782,13 +776,6 @@ hexo-server@^3.0.0:
     open "^8.0.9"
     picocolors "^1.0.0"
     serve-static "^1.14.1"
-
-hexo-theme-butterfly@^4.5.1:
-  version "4.5.1"
-  resolved "https://registry.yarnpkg.com/hexo-theme-butterfly/-/hexo-theme-butterfly-4.5.1.tgz#01d38e167d9fcc4fc60ab1aac958b8e9b041cb32"
-  dependencies:
-    hexo-renderer-pug "^3.0.0"
-    hexo-renderer-stylus "^2.1.0"
 
 hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.5.0, hexo-util@^2.7.0:
   version "2.7.0"
@@ -1402,7 +1389,7 @@ pug-walk@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/pug-walk/-/pug-walk-2.0.0.tgz"
 
-pug@^3.0.0, pug@^3.0.2:
+pug@^3.0.2:
   version "3.0.2"
   resolved "https://registry.npmjs.org/pug/-/pug-3.0.2.tgz"
   dependencies:
